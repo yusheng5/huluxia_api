@@ -8,6 +8,7 @@
 * MAIL_PASSWORD 密码
 * MAIL_ENCRYPTION 是否SSL
 * HuLuXia_user_id 葫芦侠用户ID (此需要手动抓包获取)
-本人自己封装的第三方curl类
+# 本人自己封装的第三方curl类
 * /extend/Gourd.php 葫芦侠相关操作
 * /extend/Requests.php curl常用操作
+## 由于某些原因导致sql文件丢失无法补充
