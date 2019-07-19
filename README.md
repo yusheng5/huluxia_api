@@ -12,6 +12,5 @@
 * /extend/Gourd.php 葫芦侠相关操作
 * /extend/Requests.php curl常用操作
 ## 其他
-* sql文件丢失，请自行脑补 *-*
 * 模拟葫芦侠登录 在\app\Http\Controllers\Index\Index.php@login内已说明
 ### 本程序参考的api接口文章稍后补充...
